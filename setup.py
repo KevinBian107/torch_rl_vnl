@@ -42,7 +42,7 @@ def get_version():
 ROOT_DIR = Path(__file__).parent.resolve()
 
 
-package_name = "torchrl"
+package_name = "torchrl_vnl"
 
 
 def get_nightly_version():
